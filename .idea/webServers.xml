@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bfbbc91b-78bf-403d-8ad1-4a1280e97bd8" name="proPolisher">
+        <fileTransfer accessType="SFTP" host="166.111.130.193" port="22" sshConfigId="6bb2742e-789d-452c-a900-cdb4f3e099e6" sshConfig="hwxu@166.111.130.193:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
